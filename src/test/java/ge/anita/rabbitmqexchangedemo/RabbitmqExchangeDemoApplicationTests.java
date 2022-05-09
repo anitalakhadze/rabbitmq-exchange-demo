@@ -1,10 +1,10 @@
-package ge.anita.rabbitmqfanoutexchangedemo;
+package ge.anita.rabbitmqexchangedemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RabbitmqFanoutExchangeDemoApplicationTests {
+class RabbitmqExchangeDemoApplicationTests {
 
     @Test
     void contextLoads() {
